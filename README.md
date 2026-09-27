@@ -21,6 +21,12 @@ Bounty **"Build and Demo a Mermail Agent Skill"** — Superteam Earn
 | Video demo en X | ⏳ HUMANO — guion listo en [DEMO_SCRIPT.md](DEMO_SCRIPT.md) |
 | Submission en Superteam Earn | ⏳ HUMANO — pasos en [SUBMISSION_GUIDE.md](SUBMISSION_GUIDE.md) |
 
+## Ingresos x402 en vivo (2026-09-27)
+
+- 🟢 `crypto-sentinel` — $0.003/req — [URL](https://x402.bankr.bot/0xf436ca41bd0a236338bef57adeb4976677513010/crypto-sentinel?asset=BTC)
+- 🟢 `funding-heatmap` — $0.004/req — [URL](https://x402.bankr.bot/0xf436ca41bd0a236338bef57adeb4976677513010/funding-heatmap?limit=10)
+- RefCode Bankr: `YVQGTN94-BNKR` · Ver [DEPLOY_LIVE.md](DEPLOY_LIVE.md)
+
 ## Contenido
 
 - `SUBMISSION_GUIDE.md` — los 3 pasos humanos (~5 min total) con enlaces directos
