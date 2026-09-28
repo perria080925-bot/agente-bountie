@@ -80,12 +80,13 @@ Example: https://x402.bankr.bot/0xf436ca41bd0a236338bef57adeb4976677513010/crypt
 
 | # | Acción | Tiempo | Premio potencial | Deadline |
 |---|--------|--------|------------------|----------|
-| 1 | **Moony**: publicar thread (MOONY_TIPS_POST.md) + submit | ~5 min | $300 USDC (5 premios) | **3 días** |
-| 2 | **STREAM**: publicar post/hilo (STREAM_BURN_POST.md) + submit | ~5 min | $500 USDC (5x$100) | 11 días |
+| 1 | **Moony**: publicar thread (MOONY_TIPS_POST.md) + submit | ~5 min | $300 USDC (5 premios) | **~2.5 días (2026-10-01 06:59Z)** |
+| 2 | **STREAM**: publicar post/hilo (STREAM_BURN_POST.md) — el submit LO HACE EL AGENTE: pasar la URL del post y ejecutar `scripts/ste_submit_stream.sh <url>` (AGENT_ALLOWED verificado) | ~2 min | $500 USDC (5x$100) | 11 días (2026-10-09 21:59Z) |
 | 3 | **Mentioned**: registro + team + 1 trade ($0.50) + thread (MENTIONED_ARENA_POST.md) | ~15 min | $500 USDG (5x$100, solo 5 subs) | 13 días |
 | 4 | **Completar perfil STE** (para poder reclamar payouts del agente) con claimCode `6A4726B031AF544FE48E36D0` | ~3 min | habilita todo el pipeline agente | cuando sea |
 | 5 | **Promo x402**: publicar el post X de arriba | ~2 min | ingresos recursivos | cuando sea |
 | 6 | **Mermail PR #401**: ya submitted — solo esperar | 0 min | $50–$250 | sorteo 16-oct |
+| 7 | **Regenerar GitHub token** (secrets/gh_token caducó: Bad credentials) — habilita PRs futuros (Algora, mejoras a PR #401 si piden cambios) | ~3 min | desbloquea pipeline de código | antes de próxima bounty de código |
 
 ## Cómo probar un pago real (opcional, para el usuario)
 
