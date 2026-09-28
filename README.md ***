@@ -1,0 +1,10 @@
+@@
+ - `SUBMISSION_GUIDE.md` — los 3 pasos humanos (~5 min total) con enlaces directos
+ - `DEMO_SCRIPT.md` — guion de 90 segundos para el video de X (grabar con screen recording)
+ - `deliverable/skills/mermail-bookkeeper-agent/` — copia canónica del entregable (SKILL.md + agents/openai.yaml + references/{tools,workflows,security}.md)
+@@
+ - `SUBMISSION_GUIDE.md` — los 3 pasos humanos (~5 min total) con enlaces directos
+ - `DEMO_SCRIPT.md` — guion de 90 segundos para el video de X (grabar con screen recording)
+ - `docs/mermail-bounty-checklist.md` — checklist pre-envío (Issue #1): token, PR, demo free-tier, Superteam
+ - `scripts/check_mermail_skill.sh` — auditoría local read-only del entregable (sin push ni secretos)
+ - `deliverable/skills/mermail-bookkeeper-agent/` — copia canónica del entregable (SKILL.md + agents/openai.yaml + references/{tools,workflows,security}.md)
