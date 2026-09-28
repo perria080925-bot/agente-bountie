@@ -1,0 +1,8 @@
+name = "x402-sentinel"
+main = "src/index.ts"
+compatibility_date = "2026-09-01"
+compatibility_flags = ["nodejs_compat"]
+
+# Free tier: 100k requests/day — enough for ~$0 -> scale costs only with revenue.
+# No secrets required: the paywall is public-key based; USDC settles directly
+# to PAYTO (0xf436ca41...3010) via the Bankr facilitator.
